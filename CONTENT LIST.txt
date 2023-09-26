@@ -1,4 +1,15 @@
+VARIABLES
+	-Assigned variables "="
+
+-print function
+-input function
+
 FUNCTIONS
 	-Arguments
+	-Return values
+	
 
 BUGS - DEBUGGING
+
+-comments & pseudocode (several line comments)
+- pseudocode to give a preivous structure to my code
