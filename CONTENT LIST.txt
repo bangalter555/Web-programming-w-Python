@@ -1,5 +1,6 @@
 VARIABLES
 	-Assigned variables "="
+	-Reassigning variables with "="
 
 -PRINT function
 -positional parameters, names parameters (sep,end,)
@@ -7,13 +8,19 @@ VARIABLES
 -INPUT function
 -concatenation op.
 
+DATA TYPES
+	-Strings / Strigs methods,e.g: str.strip(), str.capitalize(),title(),.split()
+	-Metodos encadenados.e.g: str.strip().title()
+	-Integers
+
 FUNCTIONS
 	-Parameters (or arguments)
 	-Return values
 	-Multiple arguments fuctions
+
+
 	
 
 BUGS - DEBUGGING
-
 -comments & pseudocode (several line comments)
 -pseudocode to give a preivous structure to my code
