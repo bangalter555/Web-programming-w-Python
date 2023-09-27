@@ -1,11 +1,14 @@
 VARIABLES
 	-Assigned variables "="
 
--print function
--input function
+-PRINT function
+-positional parameters, names parameters (sep,end,)
+-escaping (\ in PY, ${} in JS). New feature in PY: name = input(f"hello, {name}")
+-INPUT function
+-concatenation op.
 
 FUNCTIONS
-	-Arguments
+	-Parameters (or arguments)
 	-Return values
 	-Multiple arguments fuctions
 	
@@ -13,4 +16,4 @@ FUNCTIONS
 BUGS - DEBUGGING
 
 -comments & pseudocode (several line comments)
-- pseudocode to give a preivous structure to my code
+-pseudocode to give a preivous structure to my code
