@@ -7,6 +7,7 @@ VARIABLES
 FUNCTIONS
 	-Arguments
 	-Return values
+	-Multiple arguments fuctions
 	
 
 BUGS - DEBUGGING
