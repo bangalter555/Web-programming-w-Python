@@ -13,6 +13,8 @@ DATA TYPES
 	-Metodos encadenados.e.g: str.strip().title()
 	-Integers
 
+TYPE CONVERSION
+
 FUNCTIONS
 	-Parameters (or arguments)
 	-Return values
@@ -24,3 +26,5 @@ FUNCTIONS
 BUGS - DEBUGGING
 -comments & pseudocode (several line comments)
 -pseudocode to give a preivous structure to my code
+
+INTERACTIVE MODE
