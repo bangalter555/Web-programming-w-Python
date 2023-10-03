@@ -11,7 +11,10 @@ VARIABLES
 DATA TYPES
 	-Strings / Strigs methods,e.g: str.strip(), str.capitalize(),title(),.split()
 	-Metodos encadenados.e.g: str.strip().title()
-	-Integers
+	-Integers: integers numbers
+	-Floats (or floating point values): decimal numbers
+	- .round()
+	-numeric formatting
 
 TYPE CONVERSION
 
