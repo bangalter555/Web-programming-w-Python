@@ -14,3 +14,14 @@ print(f"Hello, {surname}!")
 """
 This is another way of commenting
 """
+
+# FUNCTION HELLO
+
+
+def hello(to):
+    print(f"Hello, {to}")
+
+
+name = input("What's your name ")
+
+hello(name)

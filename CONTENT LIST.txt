@@ -19,12 +19,13 @@ DATA TYPES
 TYPE CONVERSION
 
 FUNCTIONS
+	-Define (create) functions: "def"
 	-Parameters (or arguments)
 	-Return values
+	-Default values syntaax("function(value="defvalue")")
 	-Multiple arguments fuctions
 
-
-	
+SCOPE
 
 BUGS - DEBUGGING
 -comments & pseudocode (several line comments)
